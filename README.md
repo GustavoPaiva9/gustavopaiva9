@@ -11,8 +11,6 @@
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
-</br>
-</br>
 
 ## Ladies and Gentlemen !!
 
@@ -22,12 +20,11 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <p align="center">
   <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300" height="170" alt="Testers">
 </p>
-
-<h1><i>Todos os pensamentos inteligentes já foram pensados, é preciso apenas tentar repensá-los.</i></h1>
 </br>
 <p align="center">
-
-</p>
+<h1><i>Todos os pensamentos inteligentes já foram pensados, é preciso apenas tentar repensá-los.</i></h1>
+ </p>
+</br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
