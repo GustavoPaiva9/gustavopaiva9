@@ -12,7 +12,6 @@
   </a>
 
 </div>
-
 </br>
 </br>
 
@@ -20,8 +19,10 @@
 
 Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela Univesidade Paulista UNIP desde 2014 e estou no universo da programação desde 2009, adoro descobrir uns bugs para corrigi-los, e quanto mais eu aprendo vai aumentando meu conhecimento na area.
 
-<p align="center">
 
+<h1>Todos os pensamentos inteligentes já foram pensados; é preciso apenas tentar repensá-los.</h1>
+
+<p align="center">
 
 </p>
 
