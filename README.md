@@ -22,7 +22,7 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 </p>
 
 <p align="center">
-  <i>Todos os pensamentos inteligentes já foram pensados, é preciso apenas tentar repensá-los.</i>
+  <i><h1>Todos os pensamentos inteligentes já foram pensados, é preciso apenas tentar repensá-los.</h1></i>
 </p>
 
 
