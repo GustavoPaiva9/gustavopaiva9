@@ -40,7 +40,7 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 
 ### Ferramentas de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea,windows,linux,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea,windows,linux,androidstudio)](https://skillicons.dev)
 
 </br>
 </br>
