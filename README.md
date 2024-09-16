@@ -19,7 +19,7 @@
 Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela Univesidade Paulista UNIP desde 2014 e estou no universo da programação desde 2009, adoro descobrir uns bugs para corrigi-los, e quanto mais eu aprendo vai aumentando meu conhecimento na area.
 </br>
 
-<img src="https://media.giphy.com/media/gifs/XIqCQx02E1U9Wf" alt="Descrição do GIF">giphy.com/
+<img src="https://media.giphy.com/XIqCQx02E1U9Wf" alt="Descrição do GIF">giphy.com/
 
 <h1><i>Todos os pensamentos inteligentes já foram pensados, é preciso apenas tentar repensá-los.</i></h1>
 </br>
