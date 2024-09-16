@@ -35,16 +35,14 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
-
 <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,git,typescript,docker,maven,php" />
 
 ### Ferramentas de Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,visualstudio)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=apple,aws,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,visualstudio)](https://skillicons.dev)
 
 
-androidstudio
+### SISTEMAS OPERACIONAIS
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
 
 </br>
 </br>
