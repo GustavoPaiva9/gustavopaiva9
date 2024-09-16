@@ -63,3 +63,9 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustavopaiva9&show_icons=true&theme=gotham" alt="Gustavo de Paiva" />
 
 ![Snake animation](https://github.com/feltex/feltex/blob/main/feltex-github-user-contribution.svg)
+
+## Direitos Autorais
+
+© [Ano] [Gustavo Paiva]. Todos os direitos reservados.
+
+Este projeto é licenciado sob a [Licença Nome] - veja o arquivo [LICENSE](LICENSE) para detalhes.
