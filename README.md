@@ -40,8 +40,8 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 
-<img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,git,typescript" />
-<img src="https://skillicons.dev/icons?i=docker,maven,php" />
+<img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,git,typescriptdocker,maven,php" />
+<img src="https://skillicons.dev/icons?i=" />
 
 ### Ferramentas de Desenvolvimento
 
