@@ -19,27 +19,9 @@
 Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela Univesidade Paulista UNIP desde 2014 e estou no universo da programação desde 2009, adoro descobrir uns bugs para corrigi-los, e quanto mais eu aprendo vai aumentando meu conhecimento na area.
 </br>
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centralizar GIF</title>
-    <style>
-        body, html {
-            height: 100%;
-            margin: 0;
-            display: grid;
-            place-items: center; /* Centraliza vertical e horizontalmente */
-            background-color: #f0f0f0; /* Cor de fundo opcional */
-        }
-    </style>
-</head>
-<body>
-    <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px" alt="Testers vs Developers GIF">
-</body>
-</html>
-
+<p align="center">
+  <img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300" height="170" alt="Testers">
+</p>
 
 <h1><i>Todos os pensamentos inteligentes já foram pensados, é preciso apenas tentar repensá-los.</i></h1>
 </br>
