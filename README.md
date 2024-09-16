@@ -58,7 +58,8 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <a href="https://dev.to/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 
-
 📈 Meu Status Github
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustavopaiva9&show_icons=true&theme=gotham" alt="Gustavo de Paiva" />
+
+![Jogo da Cobra](jogo-feltex.png)
