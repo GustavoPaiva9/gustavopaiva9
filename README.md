@@ -10,6 +10,9 @@
  <h1 align="left">Gustavo de Paiva </h1>
   <a href="https://www.linkedin.com/in/gustavopaiva9">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+   
+   
+   
   </a>
 
 </div>
