@@ -66,6 +66,6 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 
 ## Direitos Autorais
 
-© [Ano] [Gustavo Paiva]. Todos os direitos reservados.
+©  2024 Gustavo Paiva. Todos os direitos reservados.
 
-Este projeto é licenciado sob a [Licença Nome] - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto é licenciado sob a Licença Gustavo
