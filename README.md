@@ -40,12 +40,12 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 
 ### Ferramentas de Desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea,windows,linux,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea,windows,linux,androidstudio,apple,aws)](https://skillicons.dev)
 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Tenho trabalhado com C# e .NET, mas também gosto de me aventurar em Unity e Android Studio;</p>
+ <p align="left"> Tenho trabalhado com C# e .NET, mas também gosto de me aventurar em Unity e Android Studio;</p>
  <p align="left">☕🎮 só acordo com café ou energético (praticamente o que ajuda a gente a pensar e raciocinar mais rapido) adoro games (Prefiro os mais antigos) e faço piadas ruins e adoro ser Politicamente Incorreto (Se não gostou saia daqui) .</p>
 </div>
 
