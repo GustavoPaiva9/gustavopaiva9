@@ -1,4 +1,4 @@
-![Header](https://github.com/ShaanCoding/ShaanCoding/blob/master/Assets/Banner.png)
+![Header]()
 
 <div dsplay="inline-block">
 
