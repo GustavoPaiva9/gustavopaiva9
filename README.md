@@ -10,9 +10,6 @@
  <h1 align="left">Gustavo de Paiva </h1>
   <a href="https://www.linkedin.com/in/gustavopaiva9">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-   
-   
-   
   </a>
 
 </div>
@@ -25,7 +22,9 @@
 Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela Univesidade Paulista UNIP desde 2014 e estou no universo da programação desde 2009, adoro descobrir uns bugs para corrigi-los, e quanto mais eu aprendo vai aumentando meu conhecimento na area.
 
 <p align="center">
- <img src="">
+
+![Jim Carrey Digitando](https://giphy.com/gifs/lCbSAbRrFEfkY)
+
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -40,7 +39,7 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,git,typescript,docker,maven" />
+<img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,git,typescript,docker,maven,php" />
 
 ### Ferramentas de Desenvolvimento
 
