@@ -32,7 +32,6 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
 <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,git,typescript,docker,maven,php" />
@@ -48,7 +47,7 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 </br>
 <div display="inline-block">
  <p align="left"> Tenho trabalhado com C# e .NET, mas também gosto de me aventurar em Unity e Android Studio;</p>
- <p align="left">☕🎮 só acordo com café ou energético (praticamente o que ajuda a gente a pensar e raciocinar mais rapido) adoro games (Prefiro os mais antigos) e faço piadas ruins e adoro ser Politicamente Incorreto (Se não gostou saia daqui) .</p>
+ <p align="left">☕🎮 só acordo com café ou energético (praticamente o que ajuda a gente a pensar e raciocinar mais rapido) adoro games (Prefiro os mais antigos) e faço piadas ruins e adoro ser Politicamente Incorreto (Se não gostou saia daqui humor acido) .</p>
 </div>
 
 </br>
