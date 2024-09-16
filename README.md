@@ -39,9 +39,9 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 
 ### Ferramentas de Desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots)](https://skillicons.dev)
 
-
-### SISTEMAS OPERACIONAIS
+### Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
 
 </br>
@@ -52,7 +52,6 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 </div>
 
 </br>
-
 </br>
 
 <a href="https://www.instagram.com/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
