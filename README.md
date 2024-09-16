@@ -37,8 +37,8 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,git,typescript,docker,maven,php" />
 
 ### Ferramentas de Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,opencv,eclipse,idea,visualstudio)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bots,jquery,nodejs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,opencv,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots,jquery,nodejs,py,perl)](https://skillicons.dev)
 
 ### Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=apple,kali,linux,windows)](https://skillicons.dev)
@@ -61,6 +61,5 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 📈 Meu Status Github
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustavopaiva9&show_icons=true&theme=gotham" alt="Gustavo de Paiva" />
-
 
 ![Snake animation](https://github.com/feltex/feltex/blob/main/feltex-github-user-contribution.svg)
