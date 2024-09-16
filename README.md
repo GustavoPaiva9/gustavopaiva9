@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/gustavopaiva9">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-
-  ![Md-Ij Banner-2](src="https://giphy.com/embed/lCbSAbRrFEfkY")
-
 </div>
 </br>
 </br>
@@ -21,6 +18,10 @@
 
 Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela Univesidade Paulista UNIP desde 2014 e estou no universo da programação desde 2009, adoro descobrir uns bugs para corrigi-los, e quanto mais eu aprendo vai aumentando meu conhecimento na area.
 </br>
+
+  ![Md-Ij Banner-2](src="https://giphy.com/embed/lCbSAbRrFEfkY")
+
+
 <h1><i>Todos os pensamentos inteligentes já foram pensados, é preciso apenas tentar repensá-los.</i></h1>
 </br>
 <p align="center">
