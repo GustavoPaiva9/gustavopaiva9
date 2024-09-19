@@ -47,14 +47,13 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 </br>
 <div display="inline-block">
  <p align="left"> Tenho trabalhado com C# e .NET, mas também gosto de me aventurar em Unity e Android Studio;</p>
- <p align="left">☕🎮🤣 só acordo com café ou energético (praticamente o que ajuda a gente a pensar e raciocinar mais rapido) adoro games (prefiro os mais antigos) e faço piadas ruins e adoro ser Politicamente Incorreto (Se não gostou saia daqui humor acido) .</p>
+ <p align="left">☕🎮🤣 só acordo com café ou energético (praticamente o que ajuda a gente a pensar e raciocinar mais rapido) adoro games (prefiro os mais antigos) e faço piadas ruins e adoro ser Politicamente Incorreto (Se não gostou saia daqui humor acido). </p>
 </div>
 
 </br>
-</br>
 
 <a href="https://www.instagram.com/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://dev.to/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a
+<a href="https://dev.to/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" ></a>
                                                                                                                                                     
                                                                               
 📈 Meu Status Github
@@ -62,14 +61,14 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <br/>
 
 <div style="display: flex;">
-    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPaiva9&hide_progress=true&theme=aura" alt="ilustração do Status do Github">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GustavoPaiva9&show_icons=true&theme=aura">
+    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPaiva9 &hide_progress=true&theme=aura" alt="ilustração do Status do Github">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GustavoPaiva9 &show_icons=true&theme=aura">
 </div>
 
 <br> <br>
 ##
  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GustavoPaiva9&theme=tokyonight" alt="GitHub Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GustavoPaiva9 &theme=tokyonight" alt="GitHub Trophy">
 </p>
 
 </div>
