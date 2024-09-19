@@ -62,7 +62,7 @@ Tenho 31 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 <br/>
 
 <div style="display: flex;">
-    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGustavoPaiva9&hide_progress=true&theme=aura" alt="ilustração do Status do Github">
+    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPaiva9&hide_progress=true&theme=aura" alt="ilustração do Status do Github">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GustavoPaiva9&show_icons=true&theme=aura">
 </div>
 
