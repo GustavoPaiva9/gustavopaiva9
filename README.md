@@ -14,7 +14,7 @@
 
 ## Ladies and Gentlemen !!
 
-Tenho 32 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela Univesidade Paulista UNIP desde 2014 e estou no universo da programação desde 2009, adoro descobrir uns bugs para corrigi-los, e quanto mais eu aprendo vai aumentando meu conhecimento na area.
+Tenho 32 anos, sou de São Paulo e com formação em Bacharel em Ciência da Computação pela Univesidade Paulista UNIP desde 2014 e estou no universo da programação desde 2009, adoro descobrir uns bugs para corrigi-los, e quanto mais eu aprendo vai aumentando meu conhecimento na area.
 </br>
 
 <p align="center">
@@ -77,6 +77,6 @@ Tenho 32 anos, sou de São Paulo Sou Bacharel em Ciência da Computação pela U
 
 ## Direitos Autorais
 
-©  2024 Gustavo Paiva. Todos os direitos reservados.
+©  2025 Gustavo Paiva. Todos os direitos reservados.
 
 Este projeto é licenciado sob a Licença Gustavo
