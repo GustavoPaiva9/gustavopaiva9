@@ -77,6 +77,6 @@ Tenho 32 anos, sou de São Paulo e com formação em Bacharel em Ciência da Com
 
 ## Direitos Autorais
 
-©  2025 Gustavo Paiva. Todos os direitos reservados.
+©  2026 Gustavo Paiva. Todos os direitos reservados.
 
 Este projeto é licenciado sob a Licença Gustavo
