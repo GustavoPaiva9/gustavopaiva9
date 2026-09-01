@@ -1,11 +1,11 @@
 [GustavoPaiva9](https://github.com/GustavoPaiva9)/**[gustavopaiva9](https://github.com/GustavoPaiva9/gustavopaiva9)**
 
 <h1 align="center">
-  Gustavo de Paiva
+  Gustavo de Paiva Studio
 </h1>
 
 <p align="center">
-  <strong>Analista de Sistemas · Desenvolvedor · Tech</strong>
+  <strong>Analyst & Developer</strong>
 </p>
 
 <p align="center">
@@ -21,20 +21,24 @@
   </a>
 </div>
 
+### Strategic profile
+
+Technology professional with a systems and development background, focused on building reliable, efficient and well-structured digital solutions.
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPaiva9&show_icons=true&theme=aura" />
+</p>
+
 ## Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="32" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoPaiva9&show_icons=true&theme=aura" />
-</p>
-
-© 2026 Gustavo de Paiva
+© 2026 Gustavo de Paiva Studio
