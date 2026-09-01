@@ -58,11 +58,9 @@ Acredito que a melhor forma de crescer na área é combinar curiosidade, discipl
 
 📈 Status do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPaiva9&show_icons=true&theme=aura" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPaiva9&hide_progress=true&theme=aura" />
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoPaiva9&theme=tokyonight" alt="GitHub Trophy">
+</p>
 
 ## Direitos Autorais
 
