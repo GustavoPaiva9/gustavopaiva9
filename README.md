@@ -7,6 +7,9 @@
 </h3>
 
 <p align="center">
+  <a href="https://gustavopaiva9.com.br">
+    <img src="https://img.shields.io/badge/Website-gustavopaiva9.com.br-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
   <a href="https://www.linkedin.com/in/gustavopaiva9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -151,6 +154,9 @@ Nem tudo é stack, framework e exception.
 Se quiser trocar uma ideia sobre **desenvolvimento de software, C#, .NET, tecnologia, projetos ou simplesmente conversar sobre aquele bug que "não deveria estar acontecendo"**, fique à vontade para entrar em contato.
 
 <p align="center">
+  <a href="https://gustavopaiva9.com.br">
+    <img src="https://img.shields.io/badge/🌐%20Meu%20site-gustavopaiva9.com.br-181717?style=for-the-badge" alt="Meu site">
+  </a>
   <a href="https://www.linkedin.com/in/gustavopaiva9">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
