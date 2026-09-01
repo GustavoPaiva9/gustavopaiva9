@@ -1,5 +1,3 @@
-[GustavoPaiva9](https://github.com/GustavoPaiva9)/**[gustavopaiva9](https://github.com/GustavoPaiva9/gustavopaiva9)**
-
 <h1 align="center">
   Oi, meu nome é Gustavo
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
