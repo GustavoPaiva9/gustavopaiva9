@@ -21,9 +21,9 @@
 
 Sou **Analista de Sistemas**, formado em **Bacharelado em Ciência da Computação pela Universidade Paulista (UNIP)**.
 
-Minha jornada na tecnologia começou em **2009** e, desde então, venho construindo experiência em desenvolvimento de software, análise de sistemas, resolução de problemas e manutenção e evolução de aplicações.
+Minha jornada na tecnologia começou em **2009** e, desde então, venho construindo experiência em desenvolvimento de software, análise de sistemas, resolução de problemas e evolução de aplicações.
 
-Atualmente, meu principal foco profissional está no ecossistema **C# e .NET**, trabalhando na construção e evolução de soluções de software.
+Atualmente, minha principal atuação é com **C# e .NET**, mas continuo explorando diferentes tecnologias e conceitos que possam ampliar minha capacidade de construir soluções melhores.
 
 Gosto especialmente de entender **como um sistema funciona por trás dos bastidores**, investigar problemas, identificar suas causas e transformar necessidades em soluções simples, eficientes e sustentáveis.
 
@@ -34,39 +34,39 @@ Gosto especialmente de entender **como um sistema funciona por trás dos bastido
 ## 🚀 Atualmente
 
 * 💻 Trabalho principalmente com **C# e .NET**
-* 🧠 Estudo e aprimoro continuamente meus conhecimentos em desenvolvimento de software
+* 🧠 Busco aprimorar continuamente meus conhecimentos em desenvolvimento de software
 * 🔎 Tenho interesse em **arquitetura, qualidade de código, performance e boas práticas**
 * 🎮 Exploro projetos pessoais envolvendo **Unity** e desenvolvimento de jogos
 * 📱 Tenho interesse em desenvolvimento para **Android**
-* 🛠️ Gosto de investigar bugs e entender a causa raiz dos problemas
+* 🛠️ Gosto de investigar bugs e entender sua causa raiz
 * ☕ Acredito que alguns bugs simplesmente não existem antes do primeiro café
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-### 💻 Desenvolvimento
+### ⭐ Principais
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,docker,visualstudio" />
 </p>
 
-### 🗄️ Banco de Dados
+### 🌐 Desenvolvimento Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,jquery" />
 </p>
 
-### 🔧 Ferramentas & Ambiente
+### 🔧 Outras Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,vscode,visualstudio,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,php,py,nodejs,maven" />
 </p>
 
-### 📱 Desenvolvimento & Outras Tecnologias
+### 🎮 Desenvolvimento & Experimentação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,bootstrap,jquery,unity,opencv" />
+  <img src="https://skillicons.dev/icons?i=unity,androidstudio,opencv" />
 </p>
 
 ### 🖥️ Sistemas Operacionais
@@ -103,23 +103,28 @@ Desenvolvimento Experimental
 
 ---
 
+## 📂 Projetos
+
+Este perfil reúne projetos, experimentos e estudos relacionados a desenvolvimento de software.
+
+Alguns projetos têm caráter experimental — afinal, uma das melhores formas de aprender tecnologia é **construir, quebrar, descobrir por que quebrou e tentar novamente**. 😄
+
+<p align="center">
+  <a href="https://github.com/GustavoPaiva9?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎%20Explorar%20meus%20repositórios-181717?style=for-the-badge" alt="Explorar repositórios">
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=GustavoPaiva9&theme=tokyonight&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=GustavoPaiva9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img
-    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPaiva9&layout=compact&langs_count=8&theme=tokyonight"
     alt="Top Languages"
   />
@@ -127,25 +132,23 @@ Desenvolvimento Experimental
 
 ---
 
-## 🧩 Projetos
+## 🧩 Um pouco além do código
 
-Aqui você encontrará projetos, experimentos e estudos relacionados a desenvolvimento de software.
+Nem tudo é stack, framework e exception.
 
-Alguns projetos têm caráter experimental — afinal, uma das melhores formas de aprender tecnologia é **construir, quebrar, descobrir por que quebrou e tentar novamente**. 😄
+☕ **Café** — combustível não oficial do desenvolvimento.
 
-➡️ Confira meus repositórios:
+🎮 **Games** — especialmente os clássicos e aqueles que despertaram minha curiosidade por tecnologia.
 
-<p align="center">
-  <a href="https://github.com/GustavoPaiva9?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20meus%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus repositórios">
-  </a>
-</p>
+💻 **Tecnologia** — gosto de descobrir como as coisas funcionam e experimentar novas ideias.
+
+🧠 **Curiosidade** — frequentemente começa com um simples *"e se eu fizer isso?"*.
 
 ---
 
 ## 📫 Vamos conversar?
 
-Se você quiser trocar uma ideia sobre **desenvolvimento de software, C#, .NET, tecnologia, projetos ou simplesmente conversar sobre aquele bug que "não deveria estar acontecendo"**, fique à vontade para entrar em contato.
+Se quiser trocar uma ideia sobre **desenvolvimento de software, C#, .NET, tecnologia, projetos ou simplesmente conversar sobre aquele bug que "não deveria estar acontecendo"**, fique à vontade para entrar em contato.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavopaiva9">
@@ -160,7 +163,10 @@ Se você quiser trocar uma ideia sobre **desenvolvimento de software, C#, .NET, 
 </p>
 
 <p align="center">
-  <i>"Todos os pensamentos inteligentes já foram pensados; o que muda é a forma como os reinventamos."</i>
+  <i>
+    "Todos os pensamentos inteligentes já foram pensados;
+    o que muda é a forma como os reinventamos."
+  </i>
 </p>
 
 <p align="center">
